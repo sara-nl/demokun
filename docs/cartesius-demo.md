@@ -25,7 +25,7 @@ The more convenient way is, of course, requesting the SURFsara helpdesk to have 
 In this document with examples, the commands typed during the course are explicitly included in the gray blocks. The commands can be copied and pasted into terminal windows.
 
     cd
-    git clone https://github.com/jjengelberts/cartesius-demo.git
+    git clone https://github.com/sara-nl/demokun.git
 
 With this command you first go to your home-directory and then obtain the demo material. It will create a directory cartesius-demo. 
 
