@@ -150,7 +150,7 @@ Mac OSX - You can use the command line (see command below), or install a graphic
 
 The command to transfer the file from Cartesius to your local system is:
 
-    scp your_username@cartesius.surfsara.nl:demokun/examples/tertbutylchloride/energy.png . 
+    scp your_username@cartesius.surfsara.nl:demokun/examples/tertbutylchloride1/energy.png . 
 
 **NB** Please note that this is one line that should be type on your local terminal.
 
@@ -242,7 +242,7 @@ Mac OSX - You can use the command line (see command below), or install a graphic
 
 The command to transfer the file from Cartesius to your local system is:
 
-    scp your_username@cartesius.surfsara.nl:demokun/examples/tertbutylchloride/energy.png . 
+    scp your_username@cartesius.surfsara.nl:demokun/examples/tertbutylchloride2/energy.png . 
 
 Please note that this is one line.
 
