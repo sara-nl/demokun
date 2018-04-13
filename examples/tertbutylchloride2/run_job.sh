@@ -1,7 +1,7 @@
 #!/bin/bash
 module load stopos
 MYTEMP=`mktemp -d ${TMPDIR}/tert.XXXX`
-MYHOME=${HOME}/demokun/examples/tertbutylchloride
+MYHOME=${HOME}/demokun/examples/tertbutylchloride2
 cd ${MYTEMP}
 STOPOS_RC="OK"
 while [ "$STOPOS_RC" == "OK" ]; do

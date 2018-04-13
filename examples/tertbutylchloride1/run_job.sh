@@ -5,7 +5,7 @@ if [ "x$1" == "x" ]; then
 fi
 BONDLENGTH=${1}
 MYTEMP=`mktemp -d ${TMPDIR}/tert.XXXX`
-MYHOME=${HOME}/demokun/examples/tertbutylchloride
+MYHOME=${HOME}/demokun/examples/tertbutylchloride1
 cd ${MYTEMP}
 cat ${MYHOME}/template | sed "s/LENGTH/${BONDLENGTH}/g" > input_${BONDLENGTH}
 ${HOME}/demokun/bin/gamess < input_${BONDLENGTH} > ${MYHOME}/output_${BONDLENGTH}
