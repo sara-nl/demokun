@@ -27,21 +27,21 @@ In this document with examples, the commands typed during the course are explici
     cd
     git clone https://github.com/sara-nl/demokun.git
 
-With this command you first go to your home-directory and then obtain the demo material. It will create a directory cartesius-demo. 
+With this command you first go to your home-directory and then obtain the demo material. It will create a directory demokun. 
 
 ### View coordinates of the molecule
 
 Go to the benzene directory and view the coordinates file (12 atoms, 6 carbon atoms (C) and 6 hydrogen atoms (H)).
 
     cd
-    cd cartesius-demo/
+    cd demokun/
     cd examples/
     cd benzene
     cat molecule.zmat
         
 or
 
-    cd cartesius-demo/examples/benzene
+    cd demokun/examples/benzene
     cat molecule.zmat
     
 ### View the molecule (in Molden, only with X11)
@@ -73,14 +73,14 @@ Open Molden one more time and see that benzene becomes planar by clicking the mo
 The second example is located in the tertbutylchloride1 subdirectory.
 
     cd
-    cd cartesius-demo/
+    cd demokun/
     cd examples/
     cd tertbutylchloride1
     ls
 
 or
 
-    cd cartesius-demo/examples/tertbutylchloride1/
+    cd demokun/examples/tertbutylchloride1/
     ls
 
 This will switch to the right directory and list its contents.
@@ -150,7 +150,7 @@ Mac OSX - You can use the command line (see command below), or install a graphic
 
 The command to transfer the file from Cartesius to your local system is:
 
-    scp your_username@cartesius.surfsara.nl:cartesius-demo/examples/tertbutylchloride/energy.png . 
+    scp your_username@cartesius.surfsara.nl:demokun/examples/tertbutylchloride/energy.png . 
 
 **NB** Please note that this is one line that should be type on your local terminal.
 
@@ -159,14 +159,14 @@ The command to transfer the file from Cartesius to your local system is:
 The third example, the stopos demo, is located in the tertbutylchloride2 subdirectory.
 
     cd
-    cd cartesius-demo/
+    cd demokun/
     cd examples/
     cd tertbutylchloride2
     ls
 
 or
 
-    cd cartesius-demo/examples/tertbutylchloride2/
+    cd demokun/examples/tertbutylchloride2/
     ls
 
 This will switch to the right directory and list its contents.
@@ -242,7 +242,7 @@ Mac OSX - You can use the command line (see command below), or install a graphic
 
 The command to transfer the file from Cartesius to your local system is:
 
-    scp your_username@cartesius.surfsara.nl:cartesius-demo/examples/tertbutylchloride/energy.png . 
+    scp your_username@cartesius.surfsara.nl:demokun/examples/tertbutylchloride/energy.png . 
 
 Please note that this is one line.
 
