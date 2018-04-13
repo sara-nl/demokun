@@ -18,7 +18,7 @@ and to type on the UI:
 
 That is only for today, since the UI is going to be decommissioned soon.
 
-The more convenient way is, of course, requesting the SURFsara helpdesk to have your IP address whitelisted. Please send a mail to the [helpdesk](helpdesk@surfsara.nl), after you figured out your IP address by visiting, for example, [this](http://whatsmyip.org) website.
+The more convenient way is, of course, requesting the SURFsara helpdesk to have your IP address whitelisted. Please send a mail to helpdesk@surfsara.nl, after you figured out your IP address by visiting, for example, [this](http://whatsmyip.org) website.
 
 ## First example - (non-planar) benzene?
 
