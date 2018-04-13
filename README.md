@@ -16,3 +16,5 @@ This course is targeted to users affected by the LSG decommissioning to assist t
 
 Preparation: the students should bring their own laptop (or other computer) with a terminal installed and internet connection. The hands-on session assumes that the students have acquired a Cartesius account.
 
+Cartesius user documentation and usage:
+https://userinfo.surfsara.nl/systems/cartesius/usage
